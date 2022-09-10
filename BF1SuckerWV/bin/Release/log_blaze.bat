@@ -1,0 +1,1 @@
+BF1SuckerWV.exe > log.txt
